@@ -84,7 +84,7 @@ A phishing template was selected inside the controlled lab workflow.
 
 Successful Meterpreter session establishment was validated during the simulation.
 
-![Meterpreter Session List](screenshots/phishing-workflow/meterpreter-session-list.png)
+![Meterpreter Session](screenshots/phishing-workflow/meterpreter-session-list.png)
 
 ---
 
